@@ -8,9 +8,9 @@ Downlaod the 3mf file as you like!
 ## version 3.0 printout
 the clip work as expected,way better then v2.0
 it just clips really well
-
+![IMG_20240210_131933](https://github.com/ProtonKicker/3D-printing-stuff/assets/154393892/f9759d6c-d452-47ef-b6e5-ad178e656a35)
 other than clipping the iPhone charing cable, it also works with thicker wires, such as the one on my Baidu bluetooth speaker
-
+![IMG_20240210_132602](https://github.com/ProtonKicker/3D-printing-stuff/assets/154393892/e9741423-1a0e-460e-aa3f-26565b523463)
 ## version 3.0 design release
 A new design is made!
 
