@@ -5,6 +5,12 @@ As a result, I cannot arrange it neatly.
 That is why I decided to make this simple and easy to 3D print clip that could potentially help you tidy up your desk.
 
 Downlaod the 3mf file as you like!
+## version 3.0 printout
+the clip work as expected,way better then v2.0
+it just clips really well
+
+other than clipping the iPhone charing cable, it also works with thicker wires, such as the one on my Baidu bluetooth speaker
+
 ## version 3.0 design release
 A new design is made!
 
