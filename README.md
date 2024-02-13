@@ -8,3 +8,5 @@ I am planning to talk about:
 - Fusion 360 modeling tutorial
 
 hope you'll have fun!
+
+<img src="./img/YouTube.png"/>
