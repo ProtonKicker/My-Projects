@@ -5,6 +5,14 @@ As a result, I cannot arrange it neatly.
 That is why I decided to make this simple and easy to 3D print clip that could potentially help you tidy up your desk.
 
 Downlaod the 3mf file as you like!
+## version 3.0 usage update
+I just realized some mouse are using the same wires, so...
+
+some 3D printing tips that might help:
+- no retraction needed
+- no brim/raft needed
+- 10% infill is fine
+
 ## version 3.0 printout
 the clip work as expected,way better then v2.0
 it just clips really well
