@@ -7,6 +7,9 @@ That is why I decided to make this simple and easy to 3D print clip that could p
 Downlaod the 3mf file as you like!
 ## version 3.0 usage update
 I just realized some mouse are using the same wires, so...
+![IMG_20240213_114716](https://github.com/ProtonKicker/3D-printing-stuff/assets/154393892/da73ed5a-6270-44ba-869f-e2ebcc6a41ba)
+![IMG_20240213_114659](https://github.com/ProtonKicker/3D-printing-stuff/assets/154393892/5a1982f5-3ba4-4ae9-ab4d-ddcd6e6a377d)
+
 
 some 3D printing tips that might help:
 - no retraction needed
